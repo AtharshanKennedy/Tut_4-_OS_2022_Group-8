@@ -7,7 +7,7 @@
 #define NUM_THREADS 5 // only 5 threads needed
 
 typedef struct grades{ // grade array data structure
-	int indx;
+	//int indx;
 	float g;
 }grades;
 
@@ -28,7 +28,7 @@ int main(void){
 	for(i = 0;i<NUM_THREADS;i++){ // ask user for 5 grades 
 		printf("Input %d grade and then press enter key: \n",i+1);
 		int in = scanf("%f",&data[i].g);
-		data[i].indx = i;
+		//data[i].indx = i;
 		if (in != 1){ printf("Error processing INPUT\n"); return 0; }
 	}
 		
