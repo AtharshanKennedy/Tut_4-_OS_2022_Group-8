@@ -1,5 +1,13 @@
 # Tut4-_OS_2022_Group-8
 
-What needs to be:
-  - Report
-  - Conceptual Questions
+Group Member 1
+Name: Alexander Campbell
+Student ID: 100703650
+
+Group Member 2
+Name: Atharshan Kennedy
+Student ID: 100590243
+
+Group Member 3
+Name: Joey Villafuerte
+Student ID: 100759003
